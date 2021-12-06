@@ -1,0 +1,14 @@
+.history
+.vscode
+*.ini
+*.exe
+*.class
+# *.txt
+
+# *.jpg
+# *.png
+# *.gif
+
+# !others.txt
+c++
+java
